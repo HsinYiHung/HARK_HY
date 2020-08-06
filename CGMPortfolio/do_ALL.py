@@ -44,5 +44,5 @@ import Appendix.MPCLimit
 
 # 7. Turn off all shocks and check if consumption converges to its analytical
 # perfect foresight solution
-print('7. Turn off all shocks and check if consumption converges to its analytical perfect foresight solution')
-import Appendix.PF_analytical_sol
+#print('7. Turn off all shocks and check if consumption converges to its analytical perfect foresight solution')
+#import Appendix.PF_analytical_sol
